@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/heyy/static/css/main.31d6cfe0.css",
+    "main.js": "/heyy/static/js/main.ad65fe97.js",
+    "static/js/787.30db1f89.chunk.js": "/heyy/static/js/787.30db1f89.chunk.js",
+    "index.html": "/heyy/index.html",
+    "main.ad65fe97.js.map": "/heyy/static/js/main.ad65fe97.js.map",
+    "787.30db1f89.chunk.js.map": "/heyy/static/js/787.30db1f89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ad65fe97.js"
+  ]
+}
